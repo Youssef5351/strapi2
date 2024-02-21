@@ -64,6 +64,9 @@
     },
     "isNew": {
       "type": "boolean"
+    },
+    "brand": {
+      "type": "string"
     }
   }
 }
